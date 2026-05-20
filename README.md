@@ -1,2 +1,7 @@
-# demo-maiian-s-a
-Demo web para Maiian S.A. — diseñada por eterlab.
+# Maiian S.A.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
